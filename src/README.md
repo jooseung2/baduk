@@ -1,4 +1,4 @@
-point
+#### Point
 
 Implements a single point on a board. 
 
